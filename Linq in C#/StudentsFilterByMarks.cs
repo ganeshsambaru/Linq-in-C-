@@ -13,9 +13,6 @@ namespace Linq_in_C_
             public string Name { get; set; }
             public int Marks { get; set; }
 
-            
-
-
         }
         public class Program
         {
