@@ -22,7 +22,7 @@ namespace Linq_in_C_
                   new Student { Name = "Ganesh", Marks = 85 },
                   new Student { Name = "Suresh", Marks = 70 },
                   new Student { Name = "Mahesh", Marks = 85 },
-                  new Student { Name = "Kiran", Marks = 60 },
+                  new Student { Name = "Kiran",  Marks = 60 },
                   new Student { Name = "Ramesh", Marks = 45 }
                 };
 
